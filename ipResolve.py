@@ -63,6 +63,7 @@ def dumpData(store):
             print('%s' %(i))
     else:
         print("no matched type for dumping")
+        print("no matched type for dumping")
 
 def saveData(store, outputStream):
     for i in store:
