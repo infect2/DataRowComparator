@@ -1,5 +1,6 @@
 #-*- coding: utf-8 -*
 sourceFileName = 'winrm-needs-to-be-enabled.txt'
+
 destFileName = 'winrm-enable-excluded.txt'
 outputFileName = 'diff.txt'
 
